@@ -2,7 +2,7 @@ module.exports = {
   pathPrefix: `blog`,
   siteMetadata: {
     title: `The Movie Blog`,
-    author: `Taha Akbarally`,
+    author: `The Movie Man`,
     description: `A blog about movies`,
     siteUrl: `https://asilmian.github.io/blog/`,
     social: {

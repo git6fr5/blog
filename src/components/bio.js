@@ -14,9 +14,9 @@ import { rhythm } from "../utils/typography"
 const Bio = () => {
   const data = useStaticQuery(graphql`
     query BioQuery {
-      avatar: file(absolutePath: { regex: "/content/assets/taha.jpg/" }) {
+      avatar: file(absolutePath: { regex: "/content/assets/black.jpg/" }) {
         childImageSharp {
-          fixed(width: 50, height: 50) {
+          fixed(width: 3000, height: 3000) {
             ...GatsbyImageSharpFixed
           }
         }
@@ -51,8 +51,7 @@ const Bio = () => {
         }}
       />
       <p>
-        Written by <strong>{author}</strong> who lives in Melbourne and watches
-        movies without watching any movie trailers
+        A description will be put here
         {` `}
       </p>
     </div>
