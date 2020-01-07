@@ -68,3 +68,10 @@ A quick look at the top-level files and directories you'll see in a Gatsby proje
 
 
 <!-- AUTO-GENERATED-CONTENT:END -->
+
+## Adding new blog posts
+1. Go to **`content/blog/`**
+
+2. Make new folder. Ensure folder name is all lower case with no spaces.
+
+3. Add **`index.md`** file with blog content. Formatting should be similar to example post.
