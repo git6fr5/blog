@@ -5,6 +5,9 @@ module.exports = {
     author: `Taha Akbarally`,
     description: `A blog about movies`,
     siteUrl: `none`,
+    social: {
+      twitter: `MianAsil`,
+    },
   },
   plugins: [
     {
