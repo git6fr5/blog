@@ -4,7 +4,7 @@ module.exports = {
     title: `The Movie Blog`,
     author: `Taha Akbarally`,
     description: `A blog about movies`,
-    siteUrl: `none`,
+    siteUrl: `https://asilmian.github.io/blog/`,
     social: {
       twitter: `MianAsil`,
     },
